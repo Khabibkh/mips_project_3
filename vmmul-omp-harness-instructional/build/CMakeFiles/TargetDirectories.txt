@@ -1,0 +1,7 @@
+/Users/khabibullokhujamberdiev/Desktop/vmmul-omp-harness-instructional/build/CMakeFiles/benchmark.dir
+/Users/khabibullokhujamberdiev/Desktop/vmmul-omp-harness-instructional/build/CMakeFiles/benchmark-basic.dir
+/Users/khabibullokhujamberdiev/Desktop/vmmul-omp-harness-instructional/build/CMakeFiles/benchmark-vectorized.dir
+/Users/khabibullokhujamberdiev/Desktop/vmmul-omp-harness-instructional/build/CMakeFiles/benchmark-blas.dir
+/Users/khabibullokhujamberdiev/Desktop/vmmul-omp-harness-instructional/build/CMakeFiles/benchmark-openmp.dir
+/Users/khabibullokhujamberdiev/Desktop/vmmul-omp-harness-instructional/build/CMakeFiles/edit_cache.dir
+/Users/khabibullokhujamberdiev/Desktop/vmmul-omp-harness-instructional/build/CMakeFiles/rebuild_cache.dir

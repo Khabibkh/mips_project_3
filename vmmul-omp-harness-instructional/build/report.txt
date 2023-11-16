@@ -1,0 +1,13 @@
+/Users/khabibullokhujamberdiev/Desktop/vmmul-omp-harness-instructional/dgemv-vectorized.cpp:13:23: missed: couldn't vectorize loop
+/Users/khabibullokhujamberdiev/Desktop/vmmul-omp-harness-instructional/dgemv-vectorized.cpp:20:31: missed: not vectorized: complicated access pattern.
+/Users/khabibullokhujamberdiev/Desktop/vmmul-omp-harness-instructional/dgemv-vectorized.cpp:18:27: optimized: loop vectorized using 32 byte vectors
+/Users/khabibullokhujamberdiev/Desktop/vmmul-omp-harness-instructional/dgemv-vectorized.cpp:18:27: optimized: loop vectorized using 16 byte vectors
+/Users/khabibullokhujamberdiev/Desktop/vmmul-omp-harness-instructional/dgemv-vectorized.cpp:9:6: note: vectorized 1 loops in function.
+/Users/khabibullokhujamberdiev/Desktop/vmmul-omp-harness-instructional/dgemv-vectorized.cpp:23:14: note: ***** Analysis failed with vector mode V4DF
+/Users/khabibullokhujamberdiev/Desktop/vmmul-omp-harness-instructional/dgemv-vectorized.cpp:23:14: note: ***** The result for vector mode V32QI would be the same
+/Users/khabibullokhujamberdiev/Desktop/vmmul-omp-harness-instructional/dgemv-vectorized.cpp:23:14: note: ***** Re-trying analysis with vector mode V16QI
+/Users/khabibullokhujamberdiev/Desktop/vmmul-omp-harness-instructional/dgemv-vectorized.cpp:23:14: note: ***** Analysis failed with vector mode V16QI
+/Users/khabibullokhujamberdiev/Desktop/vmmul-omp-harness-instructional/dgemv-vectorized.cpp:23:14: note: ***** Re-trying analysis with vector mode V8QI
+/Users/khabibullokhujamberdiev/Desktop/vmmul-omp-harness-instructional/dgemv-vectorized.cpp:23:14: note: ***** Analysis failed with vector mode V8QI
+/Users/khabibullokhujamberdiev/Desktop/vmmul-omp-harness-instructional/dgemv-vectorized.cpp:23:14: note: ***** Re-trying analysis with vector mode V4QI
+/Users/khabibullokhujamberdiev/Desktop/vmmul-omp-harness-instructional/dgemv-vectorized.cpp:23:14: note: ***** Analysis failed with vector mode V4QI
